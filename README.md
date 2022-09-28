@@ -1,1 +1,1 @@
-A little HTML project.
+This repository contains my HTML projects.
